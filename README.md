@@ -1,8 +1,10 @@
 # :wave: O básico do Github 
 
+_Este documento é uma versão traduzida para português do documento [original](https://github.com/education/github-starter-course)._
+
 ## 🤓 Visão geral do curso e resultados esperados
 
-O objetivo deste curso é dar uma breve introdução ao GitHub. Forneceremos também materiais para aprendizagem futura e algumas ideias para você iniciar na nossa plataforma. 🚀
+O objetivo deste material é dar uma breve introdução ao GitHub. Forneceremos também materiais para aprendizagem futura e algumas ideias para você iniciar na nossa plataforma. 🚀
 
 ## :octocat: Git e GitHub
 
